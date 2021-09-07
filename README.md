@@ -19,8 +19,7 @@ pip install requirements.txt
 - [requests](https://pypi.org/project/requests/)
 
 ## Using Regcheck API
-create a file in root directory with name `cred.env`
-create variable `USER_NAME` and assign the username of regcheck account to it.
+Create environmental variable `USER_NAME` or create a file in root directory with name `cred.env` and create variable `USER_NAME` and assign the username of regcheck account to it.
 
 ``` 
 USER_NAME= #########
