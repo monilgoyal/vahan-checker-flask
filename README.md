@@ -4,7 +4,7 @@ Vahan checker can process the car image to extract registration number from lice
 
 ## Installation
 
-Install all the required pakages using file `requirements.txt`
+Install all the required packages using file `requirements.txt`
 ```bash
 pip install requirements.txt
 ```
